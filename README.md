@@ -11,7 +11,7 @@ A React web application that allows users to browse, search, and sort movies usi
 
 ## Live Demo
 
-https://your-vercel-link.vercel.app
+https://349-react-app.vercel.app/
 
 ## Installation
 
